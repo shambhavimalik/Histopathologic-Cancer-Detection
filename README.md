@@ -24,7 +24,7 @@ PCam packs the clinically-relevant task of metastasis detection into a straight-
 The data has 2 folders of training and testing images and a file of training labels.
 
 ## Model
-The proposed model is an ensemble of Xception and MobileNetV2 with Global Average Pooling, 0.5 Dropout, Dense Layer with sigmoid activation, Adam optimization and binary_crossentropy. The model was trained for 10 epoches.
+The proposed model is an ensemble of Xception and MobileNetV2 with Global Average Pooling, 0.5 Dropout, Dense Layer with sigmoid activation, Adam optimization and binary_crossentropy. The model was trained for 10 epoches. Implemented using **Keras**.
 
 ## Result
 The model achieved an accuracy of 95%.
