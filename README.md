@@ -6,7 +6,7 @@ The aim is to create an algorithm to identify metastatic cancer in small image p
 
 Histopathology is the diagnosis and study of diseases of the tissues, and involves examining tissues and/or cells under a microscope. It is the study of the signs of the disease using the microscopic examination of a biopsy or surgical specimen that is processed and fixed onto glass slides. To visualize different components of the tissue under a microscope, the sections are dyed with one or more stains.
 
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/11848/logos/header.png?t=2018-11-15-01-52-19)
+![](https://blog.soprasteria.se/files/2019/09/1-s2.0-S1574789110000268-gr1-e1570531096421.jpg)
 
 Lymph nodes are small glands that filter the fluid in the lymphatic system and they are the first place a breast cancer is likely to spread. Histological assessment of lymph node metastases is part of determining the stage of breast cancer in TNM classification which is a globally recognized standard for classifying the extent of spread of cancer.
 The diagnostic procedure for pathologists is tedious and time-consuming as a large area of tissue has to be examined and small metastases can be easily missed. Hence using Deep Learning and Machine Learning Models provide an efficient alternative.
